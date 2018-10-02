@@ -1,2 +1,2 @@
 # Try-Git
-It is made to introduce git to new users!!! 
+It is made to introduce git to my friends :p!!! 
