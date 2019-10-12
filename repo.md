@@ -230,4 +230,4 @@ The output here will vary, but it will begin with Updating if changes have been 
 
 Your fork&#39;s master branch is now in sync with the upstream repository, and any local changes you made were not lost.
 
-Depending on your own workflow and the amount of time you spend on making changes, you can sync your fork with the upstream code of the original repository as many times as it makes sense for you. But you should certainly sync your fork right before making a pull request to make sure you don&#39;t contribute conflicting code.
+Depending on your own workflow and the amount of time you spend on making changes, you can sync your fork with the upstream code of the original repository as many times as it makes sense for you. But you should certainly sync your fork right before making a pull request to make sure you don&#39;t contribute conflicting code
