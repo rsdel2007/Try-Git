@@ -1,4 +1,4 @@
-Best TV series ever.<br>
+worst TV series ever.<br>
 not now.<br>
-Prequel is coming.<br>
-Bloodmoon :smile:<br>
+Prequel is not coming.<br>
+Bloodsun :smile:<br>
