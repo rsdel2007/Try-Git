@@ -1,1 +1,1 @@
-I am a competitive programmer.
+Cometitive programmer on codeforces and codechef.
