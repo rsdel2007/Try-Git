@@ -1,3 +1,3 @@
 *I TRIED .md*
-_ITS FUN_
+_ITS F(P)UN_
 __done__
